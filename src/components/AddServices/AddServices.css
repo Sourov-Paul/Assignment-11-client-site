@@ -1,0 +1,14 @@
+form.form {
+    display: flex !important;
+    flex-direction: column !important;
+    background-color: #74c892;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+form.form  input{
+    border: none;
+    padding:5px 10px;
+    border-radius: 4px;
+    outline: none;
+}

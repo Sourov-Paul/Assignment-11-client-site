@@ -1,0 +1,15 @@
+h2.text-center.order_NOW {
+    color: #014c8c;
+    font-family: cursive;
+    border-bottom:3px solid #3577d8;
+    width: 188px;
+    margin: 0 auto;
+    border-radius: 20px;
+    transition:all 0.5s;
+    cursor:pointer;
+    box-shadow:1px 5px 6px white
+}
+h2.text-center.order_NOW:hover{
+      border-top: 3px solid #3577d8;
+        border-radius: 20px;
+}

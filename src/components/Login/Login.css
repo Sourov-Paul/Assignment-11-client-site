@@ -1,0 +1,19 @@
+.login_main{
+    background-image: url('https://app.uniconsent.com/images/sign_in.svg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+span.google_logo {
+    font-size: 40px;
+    font-weight: bold;
+    color: #cf391b
+}
+span.google_plus_logo {
+    font-size: 25px;
+ font-weight: bold;
+ color: #9e7dd8
+}

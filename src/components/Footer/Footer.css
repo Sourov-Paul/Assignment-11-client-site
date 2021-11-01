@@ -1,0 +1,27 @@
+*{
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-top {
+    background-color: #071527;
+    color: white;
+}
+.right_araw{
+    color: rgb(221, 18, 18);
+}
+ul li{
+    cursor: pointer;
+    line-height: 30px;
+    
+}
+.youtube,.instagram,.facebook,.twitter{
+    font-size: 25px;
+}
+.clr_txt{
+    color: rgb(230, 83, 83);
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+
+}

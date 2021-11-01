@@ -1,0 +1,25 @@
+.siteName{
+    color: rgb(253, 253, 253) !important;
+    font-family: 'Rampart One', cursive;
+}
+    .car{
+    color: rgb(198, 212, 177);
+    margin: 3px;
+}
+.header{
+    background-color: rgb(22 137 162)  !important;
+}
+.link_color{
+    color: white !important;
+    margin: 2px;
+    border-radius: 4px;
+
+}
+.login_out{
+    cursor: pointer;
+}
+.link_color:hover{
+    background: #146576;
+    margin: 2px;
+    border-radius: 4px;
+}

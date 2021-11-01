@@ -1,0 +1,20 @@
+.container.row {
+    margin: 0 auto;
+}
+img{
+    width: 200px;
+    height: 200px !important;
+    margin: 0px 10px;
+}
+.second_div {
+    background: #152942;
+}
+h2.text-center.mt-3.typeDelivery {
+    color: #14c7f0;
+    font-weight: 800;
+    font-family: fangsong;
+    text-shadow: 3px 10px 6px;
+}
+.main_div{
+    background-color: red;
+}
